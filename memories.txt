@@ -1,0 +1,8 @@
+Redux:
+    In redux we manage our state
+    1-We create a folder state inside a folder we create a another two folder
+        a-action-creators (initiate action) - we create "index.js"
+        b-reducers (reducers is a function which change our state) 
+        
+        "npm i redux react-redux redux-thunk" 
+        we bring all our state in one place. For that i will create a bolier plate for this state. 
